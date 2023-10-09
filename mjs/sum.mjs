@@ -1,4 +1,3 @@
-// CommonJS require module
 export const sum = (a, b) => {
   return a + b;
 };
