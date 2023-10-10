@@ -1,4 +1,4 @@
-const fs = require("fs");
+const fs = require("node:fs");
 
 console.log("Leyendo el primer archivo");
 fs.readFile("./zzz.txt", "utf-8", (err, text) => {
