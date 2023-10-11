@@ -1,0 +1,30 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "El mejor curso de node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/COLADOXD/curso-node.git"
+  },
+  "keywords": [
+    "curso",
+    "nodejs",
+    "miducdev"
+  ],
+  "author": "Mateo Chacon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/COLADOXD/curso-node/issues"
+  },
+  "homepage": "https://github.com/COLADOXD/curso-node#readme",
+  "dependencies": {
+    "picocolors": "1.0.0"
+  },
+  "devDependencies": {
+    "standard": "^17.1.0"
+  }
+}
